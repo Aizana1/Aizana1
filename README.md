@@ -15,5 +15,5 @@ I am a FrontEnd Developer with experience in building websites and web applicati
   </ul>
 <ul><h3>Contact me📨</h3>
   <li>ayzana2010@gmail.com </li>
-  <li>+7-996-404-7681</li>
+  <li>Telegram: @Aizana1</li>
     </ul>
