@@ -14,7 +14,3 @@ I am a FrontEnd Developer with experience in building websites and web applicati
 <li>Node.JS / Express</li>
  <li>socket.io</li>
   </ul>
-<ul><h3>Contact me📨</h3>
-  <li>ayzana2010@gmail.com </li>
-  <li>Telegram: @Aizana1</li>
-    </ul>
