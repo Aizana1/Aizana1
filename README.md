@@ -12,7 +12,6 @@ I am a FrontEnd Developer with experience in building websites and web applicati
 <li>Redux, Redux ToolKit, Zustand</li>
 <li>Webpack, Vite</li>
 <li>Jest</li>
-<li>Storybook</li>
 <li>MongoDB / Mongoose</li>
 <li>Node.JS / Express</li>
  <li>socket.io</li>
