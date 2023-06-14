@@ -9,8 +9,8 @@ I am a FrontEnd Developer with experience in building websites and web applicati
  <li>TypeScript</li>
  <li>HTML5</li>
 <li>CSS/LESS/SASS</li>
-<li>Redux, Redux ToolKit, MobX</li>
-<li>Webpack</li>
+<li>Redux, Redux ToolKit, Zustand</li>
+<li>Webpack, Vite</li>
 <li>Jest</li>
 <li>Storybook</li>
 <li>MongoDB / Mongoose</li>
