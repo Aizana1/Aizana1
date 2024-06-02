@@ -6,6 +6,7 @@ I am a FrontEnd Developer with experience in building websites and web applicati
 <ul><h3>Here is my Tech Stack🛠</h3>
  <li>React</li>
  <li>Angular</li>
+ <li>RxJS</li>
  <li>JavaScript</li>
  <li>TypeScript</li>
  <li>HTML5</li>
